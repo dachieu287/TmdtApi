@@ -1,0 +1,15 @@
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.csprojAssemblyReference.cache
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.AssemblyInfoInputs.cache
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.AssemblyInfo.cs
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.csproj.CoreCompileInputs.cache
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\bin\Debug\net5.0\Tmdt.Infrastructure.Identity.deps.json
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\bin\Debug\net5.0\Tmdt.Infrastructure.Identity.dll
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\bin\Debug\net5.0\ref\Tmdt.Infrastructure.Identity.dll
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\bin\Debug\net5.0\Tmdt.Infrastructure.Identity.pdb
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.csproj.CopyComplete
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.dll
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\ref\Tmdt.Infrastructure.Identity.dll
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\obj\Debug\net5.0\Tmdt.Infrastructure.Identity.pdb
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\bin\Debug\net5.0\Tmdt.Domain.dll
+D:\TMDT\TmdtApi\Tmdt.Infrastructure.Identity\bin\Debug\net5.0\Tmdt.Domain.pdb

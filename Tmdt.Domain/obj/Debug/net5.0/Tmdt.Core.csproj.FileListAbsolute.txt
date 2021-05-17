@@ -1,0 +1,12 @@
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\Tmdt.Core.csprojAssemblyReference.cache
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\Tmdt.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\Tmdt.Core.AssemblyInfoInputs.cache
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\Tmdt.Core.AssemblyInfo.cs
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\Tmdt.Core.csproj.CoreCompileInputs.cache
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\bin\Debug\net5.0\Tmdt.Core.deps.json
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\bin\Debug\net5.0\Tmdt.Core.dll
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\bin\Debug\net5.0\ref\Tmdt.Core.dll
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\bin\Debug\net5.0\Tmdt.Core.pdb
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\Tmdt.Core.dll
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\ref\Tmdt.Core.dll
+D:\TMDT\TmdtApi\Tmdt.Api.Domain\obj\Debug\net5.0\Tmdt.Core.pdb
