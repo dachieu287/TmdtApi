@@ -73,6 +73,19 @@ namespace Tmdt.Infrastructure.Identity.Services
             return response;
         }
 
+        public async Task<UserResponse> GetProfileById(string id)
+        {
+            var user = await _userManager.FindByIdAsync(id);
+            var response = new UserResponse
+            {
+                Username = user.UserName,
+                Name = user.FullName,
+                Email = user.Email,
+                Phone = user.PhoneNumber
+            };
+            return response;
+        }
+
         public string GetUserId(ClaimsPrincipal claims)
         {
             string id = _userManager.GetUserId(claims);

@@ -62,7 +62,7 @@ namespace Tmdt.Api.Controllers
         public async Task<IActionResult> GetInvoice(int invoiceId)
         {
             var response = await _mediator.Send(new GetInvoiceByIdQuery(invoiceId));
-            var user = await _identityService.GetProfile(User);
+            var user = await _identityService.GetProfileById(response.UserId);
             var userResponse = new InvoiceResponse.UserReponse
             {
                 Name = user.Name,

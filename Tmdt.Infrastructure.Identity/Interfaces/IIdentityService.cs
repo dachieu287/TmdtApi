@@ -19,5 +19,6 @@ namespace Tmdt.Infrastructure.Identity.Interfaces
         Task<BaseResponse> Logup(LogupRequest request);
         Task<bool> CheckUsernameExists(string username);
         string GetUserId(ClaimsPrincipal claims);
+        Task<UserResponse> GetProfileById(string id);
     }
 }
